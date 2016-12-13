@@ -1,7 +1,7 @@
-# Recursive repeats for quick editing of structured text
+# Repeticiones recursivas para editar texto estructurado rapidamente en VIM
 [fuente](http://vim.wikia.com/wiki/Recursive repeats_for_quick_editing_of_structured_text)
 
-## Grabando un macro Recursivo
+## Grabando un macro recursivo
 
 Digamos que tenemos las siguientes lineas de de texto
 
